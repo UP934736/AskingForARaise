@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Asking For A Raise</string>
+    <string name="welcomeMsg">Ask your boss for a raise!</string>
+    <string name="gameSum">Do you have what it takes to force a well-deserved salary raise?</string>
+    <string name="btnStart">Start!</string>
+    <string name="btnYes">Yes!</string>
+    <string name="btnNo">No!</string>
+    <string name="btnContinue">Continue</string>
+    <string name="btnComplete">Main Menu</string>
+</resources>
